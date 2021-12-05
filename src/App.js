@@ -1,13 +1,11 @@
 import React from 'react'
-import Header from './components/Header'
+import Header from './components/Header/Header'
 import DesktopNav from './components/Nav/DesktopNav'
-import HeaderDivider from './components/Divider/HeaderDivider'
-import FooterDivider from './components/Divider/FooterDivider'
-import Footer from './components/Footer'
-import '../public/css/styles.css'
-import '../public/css/responsive.css'
+import HeaderDivider from './components/Divider/HeaderDivider/HeaderDivider'
+import FooterDivider from './components/Divider/FooterDivider/FooterDivider'
+import Footer from './components/Footer/Footer'
 
-function App() {
+export default function App() {
 	return (
 		<div className="App">
 			<HeaderDivider />
@@ -18,5 +16,3 @@ function App() {
 		</div>
 	)
 }
-
-export default App
