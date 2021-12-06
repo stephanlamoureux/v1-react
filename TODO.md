@@ -23,10 +23,12 @@
 ## React
 
 - Migrate to React
-  - Create React App
   - npm libraries
+    - typed-react
+    - find an animation library to replace AniJS
+    - [Floating UI](https://www.floating-ui.com/) to replace hire me tooltip
+  - PropTypes
 - Add testing
-- [Floating UI](https://www.floating-ui.com/) to replace hire me tooltip
 
 ## Nav
 
