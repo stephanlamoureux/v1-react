@@ -43,7 +43,8 @@
 
 - Add more details about each project
   - use a modal
-  - link for source and link for app
+    - project details
+    - link for source and link for app
 
 </details>
 
