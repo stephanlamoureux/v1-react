@@ -27,6 +27,7 @@
     - typed-react
     - find an animation library to replace AniJS
     - [Floating UI](https://www.floating-ui.com/) to replace hire me tooltip
+    - Pagination
   - PropTypes
 - Add testing
   - Contact Form
