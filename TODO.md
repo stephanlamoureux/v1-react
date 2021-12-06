@@ -30,6 +30,7 @@
   - PropTypes
 - Add testing
   - Contact Form
+  - Blog Cards
 - Remove unused fontawesome assets
 
 ## Nav
