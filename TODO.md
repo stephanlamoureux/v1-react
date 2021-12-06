@@ -29,6 +29,7 @@
     - [Floating UI](https://www.floating-ui.com/) to replace hire me tooltip
   - PropTypes
 - Add testing
+  - Contact Form
 - Remove unused fontawesome assets
 
 ## Nav
