@@ -23,12 +23,14 @@
 ## React
 
 - Migrate to React
+  - React Router
   - npm libraries
     - typed-react
     - find an animation library to replace AniJS
     - [Floating UI](https://www.floating-ui.com/) to replace hire me tooltip
     - Pagination
   - PropTypes
+  - Bullet hover effect
 - Add testing
   - Contact Form
   - Blog Cards
@@ -56,13 +58,15 @@
   <summary>Phase 4</summary>
 
 ## Gatsby
+
 - Port to Gatsby
 - Create a backend with [Netlify Functions](https://www.joshwcomeau.com/gatsby/using-netlify-functions-with-gatsby)?
-  
+
 ## Plugins
-  - Cloudinary
-  - Google Analytics 
-  - gatsby-plugin-image
-  - gatsby-plugin-sitemap
+
+- Cloudinary
+- Google Analytics
+- gatsby-plugin-image
+- gatsby-plugin-sitemap
 
 </details>
