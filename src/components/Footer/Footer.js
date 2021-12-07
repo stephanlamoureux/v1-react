@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function Footer() {
-	const today = new Date()
+	const year = new Date()
 
 	return (
 		<footer>
@@ -91,7 +91,7 @@ export default function Footer() {
 					<span className="heart animate-beat">🖤</span>
 					<span className="stephan">
 						{' '}
-						by Stephan Lamoureux &copy;{today.getFullYear()}
+						by Stephan Lamoureux &copy;{year.getFullYear()}
 					</span>
 				</a>
 			</p>
