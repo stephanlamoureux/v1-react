@@ -1207,6 +1207,18 @@
   resolved "https://registry.npmjs.org/@csstools/normalize.css/-/normalize.css-10.1.0.tgz"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
+"@floating-ui/core@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@floating-ui/core/-/core-0.1.5.tgz#58c6216258f7484f5584d197859a2519062169f7"
+  integrity sha512-9eF/oNboOx4J3O6mDhSks68u0QIk87LC+S9ZSFIOlSSXmYbMstVbUk1u87wxKHtcUmQ14ZafXajT8J4vSXGwSg==
+
+"@floating-ui/dom@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@floating-ui/dom/-/dom-0.1.5.tgz#dbc2d50307d0f9a5a179494e7dd62532b85a2604"
+  integrity sha512-jZk7K84L+rjMvQzRvqoC9Id2BIVND2yjSjXYRaUJ8ImphXJPV+Vs0nNTiI35Cd0UTHxJuA9dmaoTW1OWSZD+Ig==
+  dependencies:
+    "@floating-ui/core" "^0.1.5"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.npmjs.org/@hapi/address/-/address-2.1.4.tgz"
