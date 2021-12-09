@@ -1,16 +1,15 @@
 import React from 'react'
+import '../css/about.css'
+import '../lib/fonts/Inter-VariableFont_slnt,wght.ttf'
+import '../lib/fonts/Proza-Regular.otf'
+import profile from '../images/profile/profile-pic.webp'
 
 export default function About() {
 	return (
 		<main>
 			<section id="about" className="about">
 				<hr className="line" />
-				<h2
-					className="section-header"
-					data-anijs="if: onRunFinished, on: $AniJSNotifier, do: rubberBand animated"
-				>
-					About Me
-				</h2>
+				<h2 className="section-header">About Me</h2>
 				<hr className="line marg-bottom" />
 
 				{/* <!-- Profile Image --> */}
@@ -21,12 +20,7 @@ export default function About() {
 						rel="noopener noreferrer"
 						className="hire-me inline"
 					>
-						<img
-							src="assets/images/profile/profile-pic.webp"
-							alt="Profile picture of Stephan"
-							className="round"
-							data-anijs="if: mouseenter, do: pulse animated"
-						/>
+						<img src={profile} alt="Headshot of Stephan" className="round" />
 						<span className="tooltip">Hire Me!</span>
 					</a>
 				</div>
