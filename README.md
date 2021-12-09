@@ -4,7 +4,7 @@
 
 ### I use this as a playground to learn new technologies and showcase my work.
 
-#### [![Netlify Status](https://api.netlify.com/api/v1/badges/a19fb031-1095-4149-84a8-7daffcc71542/deploy-status)](https://app.netlify.com/sites/stephanlamoureux/deploys)
+#### [![Netlify Status](https://api.netlify.com/api/v1/badges/111cc5dd-d543-4dae-b3ef-c78be85f6085/deploy-status)](https://app.netlify.com/sites/ecstatic-dijkstra-ed80b4/deploys)
 
 ### [View TODO](TODO.md)
 
