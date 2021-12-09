@@ -17,7 +17,7 @@ export default function About() {
 					<a
 						href="assets/StephanLamoureux.pdf"
 						target="_blank"
-						rel="noopener noreferrer"
+						rel="noopener nonoreferrer"
 						className="hire-me inline"
 					>
 						<img src={profile} alt="Headshot of Stephan" className="round" />
@@ -42,7 +42,7 @@ export default function About() {
 							<a
 								href="https://vetswhocode.io"
 								target="_blank"
-								rel="noopener referrer"
+								rel="noopener noreferrer"
 								className="tech-used-link"
 							>
 								Vets Who Code
@@ -89,7 +89,7 @@ export default function About() {
 								<a
 									href="https://anijs.github.io/"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									AniJS
@@ -101,7 +101,7 @@ export default function About() {
 								<a
 									href="https://www.emailjs.com/"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									EmailJS
@@ -113,7 +113,7 @@ export default function About() {
 								<a
 									href="https://mattboldt.com/demos/typed-js/"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									TypedJS
@@ -125,7 +125,7 @@ export default function About() {
 								<a
 									href="https://developers.forem.com/api/"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									Dev.to API
@@ -137,7 +137,7 @@ export default function About() {
 								<a
 									href="https://fontawesome.com/"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									Font Awesome
@@ -149,7 +149,7 @@ export default function About() {
 								<a
 									href="https://draculatheme.com/contribute#color-palette"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									Dracula
@@ -161,7 +161,7 @@ export default function About() {
 								<a
 									href="https://rsms.me/inter/"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									Inter
@@ -181,7 +181,7 @@ export default function About() {
 							<a
 								href="https://reactjs.org/"
 								target="_blank"
-								rel="noopener referrer"
+								rel="noopener noreferrer"
 								className="tech-used-link"
 							>
 								React
@@ -190,7 +190,7 @@ export default function About() {
 							<a
 								href="https://create-react-app.dev/"
 								target="_blank"
-								rel="noopener referrer"
+								rel="noopener noreferrer"
 								className="tech-used-link"
 							>
 								Create React App
@@ -199,7 +199,7 @@ export default function About() {
 							<a
 								href="https://www.gatsbyjs.com/"
 								target="_blank"
-								rel="noopener referrer"
+								rel="noopener noreferrer"
 								className="tech-used-link"
 							>
 								Gatsby
@@ -209,7 +209,7 @@ export default function About() {
 							<a
 								href="https://www.gatsbyjs.com/plugins"
 								target="_blank"
-								rel="noopener referrer"
+								rel="noopener noreferrer"
 								className="tech-used-link"
 							>
 								plugin library
@@ -219,7 +219,7 @@ export default function About() {
 							<a
 								href="https://nextjs.org/"
 								target="_blank"
-								rel="noopener referrer"
+								rel="noopener noreferrer"
 								className="tech-used-link"
 							>
 								Next
@@ -229,7 +229,7 @@ export default function About() {
 							<a
 								href="https://graphql.org/"
 								target="_blank"
-								rel="noopener referrer"
+								rel="noopener noreferrer"
 								className="tech-used-link"
 							>
 								GraphQL
@@ -252,7 +252,7 @@ export default function About() {
 								<a
 									href="https://github.com/Vets-Who-Code/vets-who-code-app"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									VetsWhoCode
@@ -264,7 +264,7 @@ export default function About() {
 								<a
 									href="https://dev.to/stephanlamoureux/git-a-grip-part-1-initial-setup-5c3k?signin=true"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									Git a Grip
@@ -276,7 +276,7 @@ export default function About() {
 								<a
 									href="https://github.com/stephanlamoureux/v2"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									Portfolio
@@ -288,7 +288,7 @@ export default function About() {
 								<a
 									href="https://github.com/stephanlamoureux/v2"
 									target="_blank"
-									rel="noopener referrer"
+									rel="noopener noreferrer"
 									className="tech-used-link"
 								>
 									NVISION
