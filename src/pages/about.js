@@ -34,7 +34,11 @@ export default function About() {
 								<i className="fal fa-terminal p-icon fa-blink"></i>
 							</span>
 							<h3 className="about-header about-header-inline">
-								I'm Steve, a developer from Providence, Rhode⚓Island.
+								I'm Steve, a developer from Providence, Rhode
+								<span aria-label="anchor emoji" role="img">
+									⚓
+								</span>
+								Island.
 							</h3>
 						</div>
 						<p className="about-p">

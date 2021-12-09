@@ -88,7 +88,13 @@ export default function Footer() {
 					rel="noopener noreferrer"
 				>
 					<span className="made">Made with </span>
-					<span className="heart animate-beat">🖤</span>
+					<span
+						className="heart animate-beat"
+						aria-label="heart emoji"
+						role="img"
+					>
+						🖤
+					</span>
 					<span className="stephan">
 						{' '}
 						by Stephan Lamoureux &copy;{year.getFullYear()}
