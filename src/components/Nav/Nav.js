@@ -33,8 +33,7 @@ export default function Nav() {
 					<h1 className="header-title">
 						<span className="header-gradient">
 							<span className="spacing">
-								Stephan
-								<span className="hidden">Lamoureu</span>
+								Stephan <span className="hidden">Lamoureu</span>
 							</span>
 							<span className="hidden">x</span>
 						</span>

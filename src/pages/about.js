@@ -34,6 +34,7 @@ export default function About() {
 								<i className="fal fa-terminal p-icon fa-blink"></i>
 							</span>
 							<h3 className="about-header about-header-inline">
+								{' '}
 								I'm Steve, a developer from Providence, Rhode
 								<span aria-label="anchor emoji" role="img">
 									⚓
@@ -42,7 +43,7 @@ export default function About() {
 							</h3>
 						</div>
 						<p className="about-p">
-							<i className="fal fa-code-merge p-icon"></i>I am a{' '}
+							<i className="fal fa-code-merge p-icon"></i> I am a{' '}
 							<a
 								href="https://vetswhocode.io"
 								target="_blank"
@@ -81,9 +82,9 @@ export default function About() {
 					<div className="paragraph">
 						<h3 className="about-header">Tech Used</h3>
 						<p className="about-p">
-							<i className="fal fa-code-merge p-icon"></i>
-							For v1 of my portfolio, I focused on the foundations by using
-							semantic HTML<i className="fab fa-html5 trio"></i>, responsive CSS
+							<i className="fal fa-code-merge p-icon"></i> For v1 of my
+							portfolio, I focused on the foundations by using semantic HTML
+							<i className="fab fa-html5 trio"></i>, responsive CSS
 							<i className="fab fa-css3-alt trio"></i> && vanilla JavaScript
 							along with the following resources:
 						</p>
@@ -169,7 +170,7 @@ export default function About() {
 									className="tech-used-link"
 								>
 									Inter
-								</a>
+								</a>{' '}
 								- Font family
 							</li>
 						</ul>
@@ -180,8 +181,8 @@ export default function About() {
 					<div className="paragraph">
 						<h3 className="about-header">Future Plans</h3>
 						<p className="about-p">
-							<i className="fal fa-code-merge p-icon"></i>
-							My next step with this portfolio is migrating to{' '}
+							<i className="fal fa-code-merge p-icon"></i> My next step with
+							this portfolio is migrating to{' '}
 							<a
 								href="https://reactjs.org/"
 								target="_blank"
@@ -199,7 +200,7 @@ export default function About() {
 							>
 								Create React App
 							</a>{' '}
-							and then porting it to
+							and then porting it to{' '}
 							<a
 								href="https://www.gatsbyjs.com/"
 								target="_blank"
@@ -247,8 +248,8 @@ export default function About() {
 					<div className="paragraph">
 						<h3 className="about-header">Currently Working On</h3>
 						<p className="about-p">
-							<i className="fal fa-code-merge p-icon"></i>
-							Here are some of the projects I am working on at the moment:
+							<i className="fal fa-code-merge p-icon"></i> Here are some of the
+							projects I am working on at the moment:
 						</p>
 						<ul className="tech-used">
 							<li className="tech-used-list">
