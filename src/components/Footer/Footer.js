@@ -90,7 +90,7 @@ export default function Footer() {
 					<span className="made">Made with </span>
 					<span
 						className="heart animate-beat"
-						aria-label="heart emoji"
+						aria-label="black heart emoji"
 						role="img"
 					>
 						🖤

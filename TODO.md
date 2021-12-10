@@ -25,16 +25,18 @@
 - Migrate to React
   - React Router
   - npm libraries
-    - typed-react
     - find an animation library to replace AniJS
-    - [Floating UI](https://www.floating-ui.com/) to replace hire me tooltip
     - Pagination
   - PropTypes
-  - Bullet hover effect
+  - Bullet list hover effect
 - Add testing
   - Contact Form
   - Blog Cards
 - Remove unused fontawesome assets
+- Convert emailjs code to react component
+- Convert dev.to code to blog component
+- Replace tooltip with floatingui
+- Convert hamburger menu to react
 
 ## Nav
 

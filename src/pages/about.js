@@ -15,7 +15,7 @@ export default function About() {
 				{/* <!-- Profile Image --> */}
 				<div className="profile-div">
 					<a
-						href="assets/StephanLamoureux.pdf"
+						href="../StephanLamoureux.pdf"
 						target="_blank"
 						rel="noopener nonoreferrer"
 						className="hire-me inline"
