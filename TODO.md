@@ -71,4 +71,9 @@
 - gatsby-plugin-image
 - gatsby-plugin-sitemap
 
+## SEO
+  
+- robots.txt
+- sitemap.xml
+  
 </details>
