@@ -75,5 +75,6 @@
   
 - robots.txt
 - sitemap.xml
+- schema.org
   
 </details>
