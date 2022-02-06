@@ -1,6 +1,8 @@
-# 🔗 [wheresteve.codes](https://wheresteve.codes/)
+# 🔗 [v2 (WIP)(https://stephanlamoureux-v2.netlify.app/)
 
 ## Welcome To My Portfolio Site!
+
+This is a React port of my portfolio site.
 
 ### I use this as a playground to learn new technologies and showcase my work.
 
