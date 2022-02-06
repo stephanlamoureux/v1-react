@@ -1,4 +1,4 @@
-# 🔗 [v2 (WIP)(https://stephanlamoureux-v2.netlify.app/)
+# 🔗 [v2 (WIP)](https://stephanlamoureux-v2.netlify.app/)
 
 ## Welcome To My Portfolio Site!
 
