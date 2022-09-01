@@ -1,9 +1,10 @@
 /* || Projects */
 
 .projects {
-  margin: 5rem auto 18rem auto;
+  margin: 5.2rem auto 18rem auto;
   overflow: hidden;
   width: 90%;
+  padding-top: 2px;
 }
 
 .projects-p {
@@ -26,7 +27,7 @@
 
 .project-image {
   border-radius: 5px;
-  box-shadow: 0 0 5px 1px var(--dracula-foreground);
+  box-shadow: 0 0 5px 1px rgba(248, 248, 242, 0.8);
   max-width: 100%;
   opacity: 0.5;
 }
@@ -40,19 +41,19 @@
 
 .project-tile:hover .project-image {
   opacity: 1;
-  transition: 0.4s ease all;
-  box-shadow: 0 0 5px 1px var(--dracula-cyan);
+  transition: 0.3s ease all;
+  box-shadow: 0 0 5px 1px rgba(248, 248, 242, 0.8);
 }
 
 .shrink {
-  transition: 0.4s ease;
+  transition: 0.3s ease;
 }
 
 .shrink:hover {
   -webkit-transform: scale(0.9);
   -ms-transform: scale(0.9);
   transform: scale(0.9);
-  transition: 0.4s ease;
+  transition: 0.3s ease;
 }
 
 .project-name0,
@@ -77,9 +78,12 @@
 .project-tile:hover .project-name3,
 .project-tile:hover .project-name4,
 .project-tile:hover .project-name5 {
-  color: var(--dracula-cyan);
-  transition: 0.4s ease all;
+  color: var(--dracula-foreground);
+  transition: 0.3s ease all;
   transform: translateY(-12px);
+  -webkit-transform: translateY(-12px);
+  text-shadow: 0 4px 3px rgba(0, 0, 0, 0.4), 0 8px 13px rgba(0, 0, 0, 0.1),
+    0 18px 23px rgba(0, 0, 0, 0.1);
 }
 
 .project-name0::after {
@@ -87,21 +91,21 @@
 }
 
 .project-name1::after {
-  content: 'Personal Portfolio';
+  content: 'Personal Blog';
 }
 
 .project-name2::after {
-  content: 'JavaScript Calculator';
+  content: 'Windows Dev Guide';
 }
 
 .project-name3::after {
-  content: 'Random Dog Generator';
+  content: 'JavaScript Calculator';
 }
 
 .project-name4::after {
-  content: 'Technical Document';
+  content: 'Random Dog Generator';
 }
 
 .project-name5::after {
-  content: 'Product Landing Page';
+  content: 'Responsive Design Certification';
 }
