@@ -3,7 +3,7 @@ import React from 'react'
 export default function HeaderDivider() {
 	return (
 		<div className="divider1">
-			<div className="custom-shape-divider-top-1619733049">
+			<div className="top-divider">
 				<svg
 					data-name="Layer 1"
 					xmlns="http://www.w3.org/2000/svg"

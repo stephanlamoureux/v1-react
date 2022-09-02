@@ -3,7 +3,7 @@ import React from 'react'
 export default function FooterDivider() {
 	return (
 		<div className="divider2">
-			<div className="custom-shape-divider-bottom-1619735001">
+			<div className="bottom-divider">
 				<svg
 					data-name="Layer 1"
 					xmlns="http://www.w3.org/2000/svg"

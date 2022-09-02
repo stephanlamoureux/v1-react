@@ -1,5 +1,12 @@
 import React from 'react'
 import '../css/projects.css'
+import '../css/responsive.css'
+import '../css/light.css'
+import '../css/hamburgers.css'
+import '../css/anicollection.css'
+import '../assets/fontawesome-pro-5.7.2-web/css/fontawesome-initial.css'
+import '../lib/fonts/Inter-VariableFont_slnt,wght.ttf'
+import '../lib/fonts/Proza-Regular.otf'
 
 export default function Projects() {
 	return (
@@ -20,7 +27,6 @@ export default function Projects() {
 								<img
 									src="../images/projects/jobsearch.jpg"
 									alt="VetsWhoCode Job Search App"
-									title="VetsWhoCode Job Search App"
 									className="project-image shrink"
 								/>
 								<p className="project-name0"></p>
@@ -28,18 +34,32 @@ export default function Projects() {
 						</div>
 						<div className="projects-cell">
 							<a
-								href="https://stephanlamoureux.github.io/personal-portfolio/"
+								href="https://stephan-blog.vercel.app/"
 								target="_blank"
 								className="project-tile"
 								rel="noopener noreferrer"
 							>
 								<img
-									src="../images/projects/portfolio.jpg"
-									alt="freeCodeCamp Personal Portfolio Project"
-									title="freeCodeCamp Personal Portfolio Project"
+									src="../images/projects/blog.jpg"
+									alt="Personal blog made in Next.js"
 									className="project-image shrink"
 								/>
 								<p className="project-name1"></p>
+							</a>
+						</div>
+						<div className="projects-cell">
+							<a
+								href="https://github.com/Vets-Who-Code/windows-dev-guide"
+								target="_blank"
+								className="project-tile"
+								rel="noopener noreferrer"
+							>
+								<img
+									src="../images/projects/devguide.jpg"
+									alt="Windows Developer Setup Guide"
+									className="project-image shrink"
+								/>
+								<p className="project-name2"></p>
 							</a>
 						</div>
 						<div className="projects-cell">
@@ -52,10 +72,9 @@ export default function Projects() {
 								<img
 									src="../images/projects/calculator.jpg"
 									alt="Basic JavaScript Calculator"
-									title="Basic JavaScript Calculator"
 									className="project-image shrink"
 								/>
-								<p className="project-name2"></p>
+								<p className="project-name3"></p>
 							</a>
 						</div>
 						<div className="projects-cell">
@@ -68,23 +87,6 @@ export default function Projects() {
 								<img
 									src="../images/projects/random-dog.jpg"
 									alt="Random Dog Generator"
-									title="Dog API"
-									className="project-image shrink"
-								/>
-								<p className="project-name3"></p>
-							</a>
-						</div>
-						<div className="projects-cell">
-							<a
-								href="https://stephanlamoureux.github.io/technical-doc/"
-								target="_blank"
-								className="project-tile"
-								rel="noopener noreferrer"
-							>
-								<img
-									src="../images/projects/tech.jpg"
-									alt="freeCodeCamp Technical Document Project"
-									title="freeCodeCamp Technical Document Project"
 									className="project-image shrink"
 								/>
 								<p className="project-name4"></p>
@@ -92,15 +94,14 @@ export default function Projects() {
 						</div>
 						<div className="projects-cell">
 							<a
-								href="https://stephanlamoureux.github.io/product-landing-page/"
+								href="https://stephanlamoureux.github.io/personal-portfolio/"
 								target="_blank"
 								className="project-tile"
 								rel="noopener noreferrer"
 							>
 								<img
-									src="../images/projects/landing.jpg"
-									alt="freeCodeCamp Product Landing Page Project"
-									title="freeCodeCamp Product Landing Page Project"
+									src="../images/projects/portfolio.jpg"
+									alt="freeCodeCamp Responsive Design Certification"
 									className="project-image shrink"
 								/>
 								<p className="project-name5"></p>
