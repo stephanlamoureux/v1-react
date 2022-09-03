@@ -1,5 +1,7 @@
 import React from 'react'
-import Nav from './components/Nav/Nav'
+import DesktopNav from './components/Nav/DesktopNav'
+import MobileNav from './components/Nav/MobileNav'
+import Header from './components/Nav/Header'
 import HeaderDivider from './components/Divider/HeaderDivider/HeaderDivider'
 import About from './pages/about'
 import FooterDivider from './components/Divider/FooterDivider/FooterDivider'
@@ -9,7 +11,11 @@ export default function App() {
 	return (
 		<div className="App">
 			<HeaderDivider />
-			<Nav />
+			<DesktopNav />
+			<header>
+				<Header />
+				<MobileNav />
+			</header>
 			<About />
 			<Footer />
 			<FooterDivider />

@@ -26,7 +26,6 @@ export default function Footer() {
 						className="icon-links"
 						rel="noopener noreferrer"
 						aria-label="Link to my Résumé"
-						title="Résumé"
 					>
 						<i className="fas fa-file-user fa-stack-1x fa-inverse orange"></i>
 					</a>

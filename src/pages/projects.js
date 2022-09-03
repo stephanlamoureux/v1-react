@@ -1,12 +1,5 @@
 import React from 'react'
 import '../css/projects.css'
-import '../css/responsive.css'
-import '../css/light.css'
-import '../css/hamburgers.css'
-import '../css/anicollection.css'
-import '../assets/fontawesome-pro-5.7.2-web/css/fontawesome-initial.css'
-import '../lib/fonts/Inter-VariableFont_slnt,wght.ttf'
-import '../lib/fonts/Proza-Regular.otf'
 
 export default function Projects() {
 	return (
