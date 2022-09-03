@@ -1,5 +1,4 @@
 import React from 'react'
-import Typed from 'react-typed'
 
 export default function Header() {
 	return (
@@ -8,12 +7,15 @@ export default function Header() {
 				<span className="header-gradient">
 					<span className="spacing">
 						Stephan
-						<span className="hidden">Lamoureu</span>
+						<span className="hidden"> Lamoureu</span>
 					</span>
 					<span className="hidden">x</span>
 				</span>
 				<span className="show header-gradient">L.</span>
 			</h1>
+			<p class="header-sub">
+				<span id="typed" class="typed"></span>
+			</p>
 		</div>
 	)
 }
