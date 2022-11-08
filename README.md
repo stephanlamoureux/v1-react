@@ -10,5 +10,4 @@ This is a React port of my portfolio site.
 
 <div align="center">
 <img src="/public/assets/images/screenshots/laptop-mockup.png" alt="Portfolio mockup on laptops">
-<img src="/public/assets/images/screenshots/iphone-mockup.png" alt="Portfolio mockup on iphone">
 </div>
